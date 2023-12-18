@@ -1,0 +1,157 @@
+.header-nav {
+    background: rgba(235, 255, 163, 0.45);
+}
+
+#admin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #000;
+    font-family: 'Lexend Exa', sans-serif;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.navbar-links {
+    padding-left: 45px;
+    padding-right: 45px;
+    color: #000;
+    font-family: 'Lexend', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.navbar-button {
+    width: 178px;
+}
+
+.navbar-button button {
+    border-radius: 11px;
+    background: #E3FF80;
+}
+
+.navbar-button button:hover {
+    border-radius: 11px;
+    background: #d7fa55;
+}
+
+.download-btn {
+    margin-top: 50px;
+    border-radius: 12px;
+    padding: 16px;
+    background: #CEFF22;
+}
+
+.download-btn span {
+    color: #000;
+    font-family: 'Lexend', sans-serif;
+    font-size: 25.546px;
+}
+
+.download-btn:hover {
+    background: #CEFF22;
+}
+
+.download-btn span:hover {
+    background: #CEFF22;
+}
+
+.welcome-text {
+    padding-top: 150px;
+    color: #000;
+    font-family: 'Lexend', sans-serif;
+    font-style: normal;
+    line-height: normal;
+}
+
+.Welcome-textB {
+    padding-top: 30px;
+    color: #000;
+    font-family: 'Lexend', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+
+.image1 {
+    text-align: left;
+    min-width: 380px;
+}
+
+.image2 {
+    min-width: 350px;
+    max-width: 400px;
+}
+
+.welcome-div {
+    padding-left: 50px;
+}
+
+.about-header {
+    padding-top: 130px;
+    padding-left: 90px;
+}
+
+.about-header p {
+    font-family: 'Lexend', sans-serif;
+    font-size: 48px;
+}
+
+.about-text {
+    margin-top: 100px;
+}
+
+.about-text p {
+    font-family: 'Lexend', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 147.5%;
+}
+
+@media (max-width: 767px) {
+    .scrole-down {
+        /* Position for smaller screens */
+        margin-left: 35%;
+    }
+}
+
+@media (min-width: 769px) {
+    .scrole-down {
+        /* Default position for larger screens */
+        margin-left: 50px;
+    }
+}
+
+.animated-button {
+    background: #CEFF22;
+}
+
+.animated-button:hover {
+    background: rgba(130, 167, 0, 0.898)
+}
+
+.animated-button img {
+    border-radius: 32px;
+}
+
+.animated-button span {
+    color: #FFF;
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+}
+
+.Skills-hehader {
+    color: #000;
+    font-family: 'Lexend', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.Projects {
+    margin-top: 140px;
+}
